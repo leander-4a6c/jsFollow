@@ -1,0 +1,15 @@
+#circle{
+	background-color: black;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	position: relative;
+	top: 500px;
+}
+body{
+	height: 100vh;
+	margin: 0px;
+}
+#window{
+	height: 100%;	
+}
